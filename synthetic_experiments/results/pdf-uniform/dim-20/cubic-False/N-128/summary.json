@@ -1,0 +1,38 @@
+{
+  "best_test_MI": {
+    "dv": NaN,
+    "mine": 5.866634368896484,
+    "nwj": 6.415874004364014,
+    "nwjjs": 6.542486667633057,
+    "cpc": 4.794835090637207,
+    "interpol": 4.784078598022461,
+    "doe": 6.785863876342773,
+    "doe_l": 6.380815505981445,
+    "club": 19.40155601501465,
+    "knife": NaN
+  },
+  "bestargs": {
+    "dv": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)",
+    "mine": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)",
+    "nwj": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)",
+    "nwjjs": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)",
+    "cpc": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)",
+    "interpol": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)",
+    "doe": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)",
+    "doe_l": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)",
+    "club": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)",
+    "knife": "Namespace(N=128, c=1, rho=np.float64(0.7071067811865474), dim=20, layers=1, lr=0.01, init=0.0, clip=1, steps=20000, carry=0.99, alpha=1.0, a='e', nruns=1, pickle='model.p', seed=237719, cuda=False, debug=False, logdir='./results/pdf-uniform/dim-20/cubic-False/N-128//1', run_id=1, pdf='uniform', cubic=False, I=0.5, I_max=0.5, rho_steps=5, tukey_transform=False, optimize_mu=True, cond_modes=128, use_tanh=False, init_std=0.01, cov_diagonal='var', cov_off_diagonal='var', average='var', marg_modes=128, ff_residual_connection=False, ff_activation='tanh', ff_layer_norm=False, ff_layers=1, hidden=128)"
+  },
+  "best_run_id": {
+    "dv": 1,
+    "mine": 1,
+    "nwj": 1,
+    "nwjjs": 1,
+    "cpc": 1,
+    "interpol": 1,
+    "doe": 1,
+    "doe_l": 1,
+    "club": 1,
+    "knife": 1
+  }
+}
