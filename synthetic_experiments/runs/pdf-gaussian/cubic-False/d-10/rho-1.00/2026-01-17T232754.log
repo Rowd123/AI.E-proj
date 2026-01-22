@@ -1,0 +1,47 @@
+Doing run 1...
+
+    Settings:
+      CUDA:             True
+      debug:            False
+      logdir:           runs/pdf-gaussian/cubic-False/d-10/rho-1.00
+      run_id:           1
+      batchsize:        128
+      iterations:       200
+      epochs:           1
+      kernel_samples:   500
+      d:                10
+      pdf:              gaussian
+      rho:              1.00
+      lr:               0.01
+      
+Epoch 1/1 starting ...
+Finished training.
+KNIFE: final evaluation on fresh dataset...
+  True Entropy:    14.1894
+  Final Estimate:  14.2499
+  ERRROR:          0.0605
+Schraudolph: final evaluation on fresh dataset...
+  True Entropy:    14.1894
+  Final Estimate:  14.6793
+  ERRROR:          0.4900
+DoE: final evaluation on fresh dataset...
+  True Entropy:    14.1894
+  Final Estimate:  14.2024
+  ERRROR:          0.0131
+Doing run 2...
+
+    Settings:
+      CUDA:             True
+      debug:            False
+      logdir:           runs/pdf-gaussian/cubic-False/d-10/rho-1.00
+      run_id:           2
+      batchsize:        128
+      iterations:       200
+      epochs:           1
+      kernel_samples:   500
+      d:                10
+      pdf:              gaussian
+      rho:              1.00
+      lr:               0.01
+      
+Epoch 1/1 starting ...

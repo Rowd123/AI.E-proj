@@ -1,0 +1,17 @@
+Doing run 1...
+
+    Settings:
+      CUDA:             True
+      debug:            False
+      logdir:           runs/pdf-triangle/cubic-False/d-5/rho-1.00
+      run_id:           1
+      batchsize:        128
+      iterations:       1000
+      epochs:           20
+      kernel_samples:   128
+      d:                5
+      pdf:              triangle
+      rho:              1.00
+      lr:               0.00
+      data_components:  2
+Epoch 1/20 starting ...

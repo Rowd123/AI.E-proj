@@ -1,0 +1,17 @@
+Doing run 1...
+
+    Settings:
+      CUDA:             True
+      debug:            False
+      logdir:           runs/pdf-gaussian/cubic-False/d-64/rho-0.50
+      run_id:           1
+      batchsize:        128
+      iterations:       1000
+      epochs:           5
+      kernel_samples:   128
+      d:                64
+      pdf:              gaussian
+      rho:              0.50
+      lr:               0.01
+      
+Epoch 1/5 starting ...

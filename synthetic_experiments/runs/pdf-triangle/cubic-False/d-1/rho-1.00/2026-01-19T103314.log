@@ -1,0 +1,46 @@
+Doing run 1...
+
+    Settings:
+      CUDA:             True
+      debug:            False
+      logdir:           runs/pdf-triangle/cubic-False/d-1/rho-1.00
+      run_id:           1
+      batchsize:        128
+      iterations:       200
+      epochs:           10
+      kernel_samples:   128
+      d:                1
+      pdf:              triangle
+      rho:              1.00
+      lr:               0.10
+      data_components:  10
+Epoch 1/10 starting ...
+Epoch 2/10 starting ...
+Epoch 3/10 starting ...
+Epoch 4/10 starting ...
+Epoch 5/10 starting ...
+Epoch 6/10 starting ...
+Epoch 7/10 starting ...
+Epoch 8/10 starting ...
+Epoch 9/10 starting ...
+Epoch 10/10 starting ...
+Finished training.
+KNIFE: final evaluation on fresh dataset...
+  True Entropy:    0.6146
+  Final Estimate:  0.7081
+  ERRROR:          0.0935
+Schraudolph: final evaluation on fresh dataset...
+  True Entropy:    0.6146
+  Final Estimate:  0.7116
+  ERRROR:          0.0970
+DoE: final evaluation on fresh dataset...
+  True Entropy:    0.6146
+  Final Estimate:  2.3120
+  ERRROR:          1.6973
+FINAL:
+KNIFE:
+  error 1: 0.0935 ± 0.0000
+Schraudolph:
+  error 1: 0.0970 ± 0.0000
+DoE:
+  error 1: 1.6973 ± 0.0000
